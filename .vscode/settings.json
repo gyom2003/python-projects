@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#76D7C4",
+        "terminal.background": "#17202A",
+        "terminal.border": "#000000",
+        "debugConsoleInputIcon.foreground": "#76D7C4",
+        "editor.lineHighlightBorder": "#261d5a8c",
+        "activityBar.background": "#372D02",
+        "titleBar.activeBackground": "#4C3F03",
+        "titleBar.activeForeground": "#FEFBEB"
+    },
+    "ponicode.testSettings.testLocation.locationType": "Same folder as source file",
+    "ponicode.testSettings.testLocation.path": "{rootDir}/{filePath}/{fileName}.test.{ext}",
+    "editor.fontFamily": "'DejaVu Sans Mono'"
+
+}

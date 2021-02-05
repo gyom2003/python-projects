@@ -1,0 +1,9 @@
+import math
+import random 
+
+a = 2
+if a = 2:
+    print("oui")
+else:
+    print("non")
+    

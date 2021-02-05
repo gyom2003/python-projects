@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/vide.py" line="53" mnemonic="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afa77ca3-cecd-4a5b-b818-f066f00ad03e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AlgoProjects/minijeu.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoProjects/face_detection_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projet1.py" />
+        <option value="$PROJECT_DIR$/rebonjour.py" />
+        <option value="$PROJECT_DIR$/jeu pierre f c.py" />
+        <option value="$PROJECT_DIR$/le pendue.py" />
+        <option value="$PROJECT_DIR$/../../../../Temp/Temp1_Platformer.zip/Platformer.py" />
+        <option value="$PROJECT_DIR$/tpgr.py" />
+        <option value="$PROJECT_DIR$/mais laisse moi dormir.py" />
+        <option value="$PROJECT_DIR$/je sais pas.py" />
+        <option value="$PROJECT_DIR$/la balle 3.py" />
+        <option value="$PROJECT_DIR$/le reste 2.py" />
+        <option value="$PROJECT_DIR$/jeu entrainement.py" />
+        <option value="$PROJECT_DIR$/joueur.py" />
+        <option value="$PROJECT_DIR$/le reste.py" />
+        <option value="$PROJECT_DIR$/la balle 2.py" />
+        <option value="$PROJECT_DIR$/voiture entrainement.py" />
+        <option value="$PROJECT_DIR$/balle.py" />
+        <option value="$PROJECT_DIR$/la balle.py" />
+        <option value="$PROJECT_DIR$/panier.py" />
+        <option value="$PROJECT_DIR$/Joueur.py" />
+        <option value="$PROJECT_DIR$/projet4.py" />
+        <option value="$PROJECT_DIR$/oeuf.py" />
+        <option value="$PROJECT_DIR$/tp.py" />
+        <option value="$PROJECT_DIR$/raquette.py" />
+        <option value="$PROJECT_DIR$/bottest.py" />
+        <option value="$PROJECT_DIR$/tatave.py" />
+        <option value="$PROJECT_DIR$/tkinter base donnée.py" />
+        <option value="$PROJECT_DIR$/mainentrainement.py" />
+        <option value="$PROJECT_DIR$/la_balle.py" />
+        <option value="$PROJECT_DIR$/vide.py" />
+        <option value="$PROJECT_DIR$/jumpgame.py" />
+        <option value="$PROJECT_DIR$/jump_g/jumpgame.py" />
+        <option value="$PROJECT_DIR$/jeux serpent.py" />
+        <option value="$PROJECT_DIR$/projet6.py" />
+        <option value="$PROJECT_DIR$/pygame test sprite rect.py" />
+        <option value="$PROJECT_DIR$/pygame collision rect, sprite.py" />
+        <option value="$PROJECT_DIR$/gunshotgame/jeu de tire.py" />
+        <option value="$PROJECT_DIR$/projet2.py" />
+        <option value="$PROJECT_DIR$/entrainement tout.py" />
+        <option value="$PROJECT_DIR$/jump_g/settings.py" />
+        <option value="$PROJECT_DIR$/jump_g/main.py" />
+        <option value="$PROJECT_DIR$/jump_g/sprite.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/entrainement.py" />
+        <option value="$PROJECT_DIR$/AlgoProjects/algo.py" />
+        <option value="$PROJECT_DIR$/AlgoProjects/face_detection_model.py" />
+        <option value="$PROJECT_DIR$/AlgoProjects/minijeu.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="681" />
+    <option name="width" value="684" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\guillaume\projets" />
+      <recent name="C:\guillaume\projets\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.algo">
+    <configuration name="algo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AlgoProjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AlgoProjects/algo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entrainement tout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entrainement tout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entrainement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entrainement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jump_g" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jump_g/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sprite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jump_g" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jump_g/sprite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.entrainement tout" />
+      <item itemvalue="Python.sprite" />
+      <item itemvalue="Python.entrainement" />
+      <item itemvalue="Python.algo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.algo" />
+        <item itemvalue="Python.entrainement" />
+        <item itemvalue="Python.sprite" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.entrainement tout" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afa77ca3-cecd-4a5b-b818-f066f00ad03e" name="Default Changelist" comment="" />
+      <created>1584481949872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584481949872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.66964287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49479166" weight="0.295972" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39754817" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32901135" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.9597198" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5052083" side_tool="true" weight="0.29983792" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32749563" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24181548" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4955357" visible="true" weight="0.29983792" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987034" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32970452" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50446427" side_tool="true" weight="0.29983792" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32901135" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../guillaume/python/Lib/site-packages/selenium/webdriver/common/action_chains.py" />
+    <entry file="file://$PROJECT_DIR$/projet4.py" />
+    <entry file="file://$PROJECT_DIR$/base de donnée.py" />
+    <entry file="file://$PROJECT_DIR$/bottest.py" />
+    <entry file="file://$PROJECT_DIR$/tp.py" />
+    <entry file="file://$PROJECT_DIR$/Joueur.py" />
+    <entry file="file://$PROJECT_DIR$/tatave.py" />
+    <entry file="file://$PROJECT_DIR$/le reste.py" />
+    <entry file="file://$PROJECT_DIR$/image/jumper-map-tiled.tmx" />
+    <entry file="file://$PROJECT_DIR$/image/map.tmx" />
+    <entry file="file://$PROJECT_DIR$/je sais pas.py" />
+    <entry file="file://$PROJECT_DIR$/raquette.py" />
+    <entry file="file://$PROJECT_DIR$/panier.py" />
+    <entry file="file://$PROJECT_DIR$/jumpgame.py" />
+    <entry file="file://$PROJECT_DIR$/../guillaume/python/Lib/site-packages/pygame/sprite.py" />
+    <entry file="file://$PROJECT_DIR$/la_balle.py" />
+    <entry file="file://$PROJECT_DIR$/mainentrainement.py" />
+    <entry file="file://$PROJECT_DIR$/jump_g/pygame test" />
+    <entry file="file://$PROJECT_DIR$/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/jeux serpent.py" />
+    <entry file="file://$PROJECT_DIR$/vide.py" />
+    <entry file="file://$PROJECT_DIR$/projet6.py" />
+    <entry file="file://$PROJECT_DIR$/pygame test sprite rect.py" />
+    <entry file="file://E:/Users/pcproject/gunshotgame/jeu de tire.py" />
+    <entry file="file://$PROJECT_DIR$/pygame collision rect, sprite.py" />
+    <entry file="file://$PROJECT_DIR$/jump_g/hightscore.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunshotgame/jeu de tire.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt" />
+    <entry file="file://$PROJECT_DIR$/projet2.py" />
+    <entry file="file://$PROJECT_DIR$/jump_g/jumper animation/animation gauche/3.png" />
+    <entry file="file://$PROJECT_DIR$/jump_g/jumper animation/animation mort/5.png" />
+    <entry file="file://$PROJECT_DIR$/jump_g/jumper animation/animation immobile/immobile0.png" />
+    <entry file="file://$PROJECT_DIR$/jump_g/Vector/vector_jumper.swf" />
+    <entry file="file://$PROJECT_DIR$/jump_g/Ice Elemental Sprite Sheet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jump_g/animmation/immobile4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jump_g/spritesheet_jumper.png" />
+    <entry file="file://$PROJECT_DIR$/jump_g/spritesheet_jumper.xml" />
+    <entry file="file://$PROJECT_DIR$/jump_g/Players/spritesheet_jumper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jump_g/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkinter base donnée.py" />
+    <entry file="file://$PROJECT_DIR$/les graphiques.py" />
+    <entry file="file://$PROJECT_DIR$/jump_g/sprite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jump_g/jumpgame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrainement tout.py" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/jump_g/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrainement.py" />
+    <entry file="file://$PROJECT_DIR$/AlgoProjects/algo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoProjects/algo.py" />
+    <entry file="file://$PROJECT_DIR$/AlgoProjects/face_detection_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoProjects/minijeu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
