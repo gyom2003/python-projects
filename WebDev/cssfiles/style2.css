@@ -1,0 +1,93 @@
+
+
+p.pbody {
+    font-size: 10px;
+    font-family: verdana;
+}
+
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2.titrebody {
+    text-align: center;
+}
+
+h2.titrebody:hover {
+    color: #3341FF;
+    background-color:white;
+    transition: 0.3s all;
+}
+
+table.premtable, th, td {
+    padding: 4px; 
+    margin: 8px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.premtable {
+    border-spacing: 5px;
+    background-color: #33B3FF;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    text-align: center;
+}
+
+caption.captiontableau {
+    color: black;
+    padding: 10px;
+}
+
+
+div.divone {
+    background-color:#052D44;
+    color: #FBFBFB;
+}
+
+span.spanone {
+    font-weight: bold;
+    color: blue;
+}
+
+span.spantwo {
+    font-weight: bold;
+    color: darkolivegreen
+}
+
+section.thesection {
+    box-sizing: border-box;
+}
+
+article.articlelondre {
+    float: right; 
+    width: 65%;
+    background-color: #f1f1f1;
+    height: 300px; 
+    padding: 20px; 
+}
+
+nav.Londonnav {
+    float: left; 
+    width: 25%;
+    height: 285px;
+    background-color: #ccc;
+    padding: 15px; 
+}
+
+nav.Londonnav ol, li.lilondre {
+    margin: 20px; 
+}
+
+nav.Londonnav ol {
+    padding: 0;
+    list-style-type: none;
+}
+
+

@@ -5,8 +5,8 @@ import numpy as np
 
 
 video_capture = cv2.VideoCapture(0)
-image_test = fr.load_image_file("guillaume.png")
-guillaume_image = cv2.imread("guillaume.png") 
+image_test = fr.load_image_file("images/guillaume.png")
+guillaume_image = cv2.imread("images/guillaume.png", cv2.IMREAD_UNCHANGED) 
 guillaume_face_encoding = fr.face_encodings(guillaume_image)[0]
 known_face_encondings = [guillaume_face_encoding]
 known_face_names = ["Guillaume"]
@@ -39,7 +39,7 @@ while True:
 
     cv2.imshow('Webcam_facerecognition', frame)
 
-    if cv2.waitKey(1) & 0xFF == ord('q'):
+    if cv2.waitKey(0) & 0xFF == ord('q'):
         break
 
 video_capture.release()

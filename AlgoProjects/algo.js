@@ -37,13 +37,13 @@ class GeneralClass {
 	}
 
 	compareAge(other) {
-		if (other.age > Person.age && Math.sign(other.age) == 1) {
+		if (other.age > other.age && Math.sign(other.age) == 1) {
             return `${other.age} is older than me.`
         }
-        if (other.age < Person.age && Math.sign(other.age) == -1) {
+        if (other.age < other.age && Math.sign(other.age) == -1) {
             return `${other.age} is younger than me.`
         }
-        if (other.age == Person.age && Math.sign(other.age) == 0) {
+        if (other.age == other.age && Math.sign(other.age) == 0) {
             return `${other.age} is the same age as me.`
         }	
     }

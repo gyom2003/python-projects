@@ -11,6 +11,8 @@
     },
     "ponicode.testSettings.testLocation.locationType": "Same folder as source file",
     "ponicode.testSettings.testLocation.path": "{rootDir}/{filePath}/{fileName}.test.{ext}",
-    "editor.fontFamily": "'DejaVu Sans Mono'"
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontSize": 15,
+    "editor.fontLigatures": true, 
 
 }
